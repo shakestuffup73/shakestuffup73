@@ -38,5 +38,8 @@ I'm a former Air Force Captain and Federal Park Ranger who made a career-change 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <br>
 </div>
+<h2>GitHub Stats</h2>
+
+![Amanda's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakestuffup73&theme=react&show_icons=true)
 
 
