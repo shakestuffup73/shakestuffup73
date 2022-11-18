@@ -14,7 +14,7 @@
 I'm a former Air Force Captain and Federal Park Ranger who made a career-change to become a Software Developer. I recently graduated from General Assembly's 3-month Software Engineering Immersive. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
 <br>
 <br>
-After spending almost a decade exploring the states :desert: :mountain: :camping: :national_park:, I've returned to my New England roots :maple_leaf:. I now spend my free time wandering the woods :evergreen_tree: with my dog :feet: :dog:, perusing bookshop :books: shelves for hours, staring at the sky :milky_way: and any body of water :ocean: I happen upon, and people-watching under the guise of drinking coffee :coffee:. I will shamelessly admit that I obsessively listen to the music :note: that puts words to my emotions through introspective lyrical poeticism and am a non-commital professional Photographer :camera: who appreciates all forms of artistic expression.
+After spending almost a decade exploring the states :desert: :mountain: :camping: :national_park:, I've returned to my New England roots :maple_leaf:. I now spend my free time wandering the woods :evergreen_tree: with my dog :feet: :dog:, perusing bookshop :books: shelves for hours, staring at the sky :milky_way: and any body of water :ocean: I happen upon, and people-watching under the guise of drinking coffee :coffee:. I will shamelessly admit that I obsessively listen to the music :notes: that puts words to my emotions through introspective lyrical poeticism and am a non-commital professional Photographer :camera: who appreciates all forms of artistic expression :performing_arts: :art:.
 <hr>
 <h2>My Current Dev Skills/Tech</h2>
 <hr>
