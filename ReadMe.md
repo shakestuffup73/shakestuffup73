@@ -1,4 +1,4 @@
-<h2>Hey there, I'm Amanda.</h2>
+<h2>Hey there, I'm Amanda :sparkles:</h2>
 
 <h3>Reach me via:</h3>
 <div id="badges">
