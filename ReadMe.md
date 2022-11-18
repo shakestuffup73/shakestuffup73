@@ -13,7 +13,9 @@
 <br>
 I'm a former Air Force Captain and Federal Park Ranger who made a career-change to become a Software Developer by attending a 3-month Software Engineering Immersive through General Assembly. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
 
+<hr>
 <h2>My Current Dev Skills/Tech</h2>
+<hr>
 <h3>Languages/Databases/Frameworks</h3>
 <div id="techSkills">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -38,8 +40,10 @@ I'm a former Air Force Captain and Federal Park Ranger who made a career-change 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <br>
 </div>
+<hr>
 <h2>GitHub Stats</h2>
+<hr>
 
 ![Amanda's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakestuffup73&theme=react&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakestuffup73&layout=compact&theme=react)](https://github.com/shakestuffup73/github-readme-stats)
