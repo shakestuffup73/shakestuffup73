@@ -8,7 +8,8 @@
 <a href="mailto:amanda.stern.73@gmail.com?subject=GitHub%20Contact">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="www.amandastern.dev"><img src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="www.amandastern.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://www.codewars.com/users/shakestuffup73/"><img src="https://www.codewars.com/users/shakestuffup73/badges/large" /></a>
 </div>
 <br>
 I'm a former Air Force Captain and Federal Park Ranger who made a career-change to become a Software Developer. I recently graduated from General Assembly's 3-month Software Engineering Immersive and am open to work for my first Junior Developer role. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
