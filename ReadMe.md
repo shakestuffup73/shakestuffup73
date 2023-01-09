@@ -43,10 +43,10 @@ After spending almost a decade exploring the states :desert: :mountain: :camping
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <br>
 </div>
-<!-- <hr>
+<hr>
 <h2>GitHub Stats</h2>
 <hr>
 
-![Amanda's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakestuffup73&theme=react&show_icons=true) -->
+![Amanda's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakestuffup73&theme=react&show_icons=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakestuffup73&layout=compact&theme=react)](https://github.com/shakestuffup73/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakestuffup73&layout=compact&theme=react)](https://github.com/shakestuffup73/github-readme-stats)
