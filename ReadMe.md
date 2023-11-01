@@ -50,6 +50,5 @@ After spending almost a decade exploring the states :desert: :mountain: :camping
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakestuffup73&layout=compact&theme=react)](https://github.com/shakestuffup73/github-readme-stats)
 
 <hr>
-<img src="https://imgur.com/a/ciIzElt">
+[Imgur](https://imgur.com/dcb2qCw)
 <hr>
-<img src="https://imgur.com/dcb2qCw">
