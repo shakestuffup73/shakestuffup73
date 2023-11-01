@@ -44,9 +44,12 @@ After spending almost a decade exploring the states :desert: :mountain: :camping
 <br>
 </div>
 <hr>
-<h2>GitHub Stats</h2>
+<h2>GitHub/GitLab Stats</h2>
 <hr>
 
-![Amanda's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakestuffup73&theme=react&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakestuffup73&layout=compact&theme=react)](https://github.com/shakestuffup73/github-readme-stats)
+
+<hr>
+<img src="https://imgur.com/a/ciIzElt">
+<hr>
+<img src="https://imgur.com/dcb2qCw">
