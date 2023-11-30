@@ -50,6 +50,6 @@ After spending almost a decade exploring the states :desert: :mountain: :camping
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakestuffup73&layout=compact&theme=react)](https://github.com/shakestuffup73/github-readme-stats)
 
 <hr>
-<a href="https://ibb.co/ZMQzzDs"><img src="https://i.ibb.co/G5ZQQSw/Amanda-Git-Lab.jpg" alt="Amanda-Git-Lab" border="0"></a>
+<a href="https://ibb.co/DkNsxqd"><img src="https://i.ibb.co/7VH8w9h/GitLab1.png" alt="GitLab1" border="0"></a>
 <hr>
 <a href="https://ibb.co/T2D2w9c"><img src="https://i.ibb.co/8snsm1M/Amanda-Git-Lab2.jpg" alt="Amanda-Git-Lab2" border="0"></a>
